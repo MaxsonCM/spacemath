@@ -8,3 +8,5 @@ O Protótipo do jogo Space Math foi desenvolvido para auxiliar o professor de ma
 Experimente como ficou o jogo até o ultimo momento que ele foi programado pelo link abaixo:
 
 https://spacemath.herokuapp.com/
+
+[PDF do artigo.](http://conic-semesp.org.br/anais/files/2013/trabalho-1000016358.pdf)
